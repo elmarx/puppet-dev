@@ -1,0 +1,3 @@
+[submodule "modules/froxlor"]
+	path = modules/froxlor
+	url = git@github.com:zauberpony/puppet-froxlor.git
